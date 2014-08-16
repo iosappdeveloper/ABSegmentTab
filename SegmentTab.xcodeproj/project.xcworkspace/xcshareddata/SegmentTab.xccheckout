@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E8CB22B9-C15C-4491-BCC4-72784340B036</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SegmentTab</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BD54F58E-EA42-41E1-BA20-1C7E138DC8DB</key>
+		<string>https://github.com/iosappdeveloper/ABSegmentTab.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SegmentTab.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BD54F58E-EA42-41E1-BA20-1C7E138DC8DB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/iosappdeveloper/ABSegmentTab.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BD54F58E-EA42-41E1-BA20-1C7E138DC8DB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BD54F58E-EA42-41E1-BA20-1C7E138DC8DB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SegmentTab</string>
+		</dict>
+	</array>
+</dict>
+</plist>
